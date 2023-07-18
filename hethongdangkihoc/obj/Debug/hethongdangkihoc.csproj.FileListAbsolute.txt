@@ -1,0 +1,12 @@
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\bin\Debug\hethongdangkihoc.exe.config
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\bin\Debug\hethongdangkihoc.exe
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\bin\Debug\hethongdangkihoc.pdb
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.csprojAssemblyReference.cache
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.Hethongdangkihoc.resources
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.Properties.Resources.resources
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.csproj.GenerateResource.cache
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.csproj.CoreCompileInputs.cache
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.exe
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.pdb
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.dangkihoc.resources
+C:\Users\starl\source\repos\hethongdangkihoc\hethongdangkihoc\obj\Debug\hethongdangkihoc.phieubaothutien.resources

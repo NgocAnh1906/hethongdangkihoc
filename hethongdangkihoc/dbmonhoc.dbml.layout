@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbmonhoc">
+  <DataContextMoniker Name="/dbmonhocDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c1199d6a-008e-4c3b-a223-ce5232b13b42" absoluteBounds="4.125, 2.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/dbmonhocDataContext/chi_tiet_mon_hoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f660c4d8-243a-4bce-bfce-db602f3ce84f" absoluteBounds="4.1400000000000006, 2.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="273ac139-0deb-404d-9167-aa3b891c64eb" absoluteBounds="0.5, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbmonhocDataContext/Thongtinmonhoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12c953d6-027f-4ecc-b00d-3071cf12fec2" absoluteBounds="0.51500000000000012, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
